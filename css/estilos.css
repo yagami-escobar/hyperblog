@@ -1,0 +1,31 @@
+
+
+
+header{
+    width: 80%;
+    text-align: center;
+    border: 1px solid #DDD;
+    padding: 0;
+    color: cadetblue;
+    margin: 1em auto;
+    
+}
+
+section .container{
+    width: 80%;
+    text-align: center;
+    border: 1px solid #DDD;
+    padding: 1em;
+    margin: 1em;
+    color: chocolate;
+    margin: 1em auto;
+}
+
+footer{
+    width: 80%;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin: 1em auto;
+    color: peru;
+}
