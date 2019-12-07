@@ -12,7 +12,7 @@ header{
     text-align: left;
     border: 1px solid #DDD;
     padding: 1em;
-    color: white;
+    color: #ddd;
     font-weight: bold;
     margin: 0 auto;
     background-color: royalblue;
@@ -39,5 +39,5 @@ footer{
     padding: 1em;
     margin: 0 auto;
     color: #000;
->>>>>>> header
+
 }
